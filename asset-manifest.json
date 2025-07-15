@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/react-ghpages-demo/static/css/main.0d6dc32a.css",
-    "main.js": "/react-ghpages-demo/static/js/main.877e5048.js",
+    "main.js": "/react-ghpages-demo/static/js/main.cb3bb2d1.js",
     "index.html": "/react-ghpages-demo/index.html",
-    "main.0d6dc32a.css.map": "/react-ghpages-demo/static/css/main.0d6dc32a.css.map",
-    "main.877e5048.js.map": "/react-ghpages-demo/static/js/main.877e5048.js.map"
+    "main.cb3bb2d1.js.map": "/react-ghpages-demo/static/js/main.cb3bb2d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d6dc32a.css",
-    "static/js/main.877e5048.js"
+    "static/js/main.cb3bb2d1.js"
   ]
 }
